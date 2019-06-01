@@ -9,5 +9,5 @@ My name is Kpakpo Kévin. I am consultant in Data & Analytics at KPMG. I love da
 - accounting and corporate finance
 - real estate
 - personal development
-- sport
+- sport and classical music
 
