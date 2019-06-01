@@ -24,8 +24,8 @@ description: My profile
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "pdf/CV.pdf"
-  Projects:"projects"
+  Resume: "resume"
+  Projects: "projects"
   Teachings: "teachings"
   Readings: "readings"
 
