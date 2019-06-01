@@ -25,6 +25,7 @@ description: My profile
 navbar-links:
   About Me: "aboutme"
   Resume: "pdf/CV.pdf"
+  Projects:"projects"
   Teachings: "teachings"
   Readings: "readings"
 
@@ -34,7 +35,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /img/avatar_header_tab.png
+title-img: /img/avatar_header_tab.png
 
 # --- Background colour/image options --- #
 
@@ -131,7 +132,7 @@ share-links-active:
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : "akouete-kpakpo/akouete-kpakpo.github.io"
   branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
